@@ -1,4 +1,11 @@
-## Hi there 👋
+## Yo guys, BPChumpChange here
+
+I'm a full time broadcast operations supervisor, utilising python and sql in my day to day duties.
+Still learning python, would love to learn java next!
+
+Also a fully qualified audio engineer available for various freelancing projects.
+
+I like learning spanish, playing video games and cooking.
 
 <!--
 **BPChumpChange/BPChumpChange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
